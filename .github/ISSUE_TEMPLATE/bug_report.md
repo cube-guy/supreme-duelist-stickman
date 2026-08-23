@@ -23,7 +23,7 @@ A clear and concise description of what you expected to happen.
 **Demonstration**
 If applicable, add screenshots, recordings, or any media to help explain your problem.
 
-**Specifications:**
+**Specifications**
 - Version: [e.g. 4.0.5]
 - Platform: [e.g. Android, iOS]
 - Source: [e.g. Google Play Store]
