@@ -23,14 +23,10 @@ A clear and concise description of what you expected to happen.
 **Demonstration**
 If applicable, add screenshots, recordings, or any media to help explain your problem.
 
-**Game:**
+**Specifications:**
 - Version: [e.g. 4.0.5]
+- Platform: [e.g. Android, iOS]
 - Source: [e.g. Google Play Store]
-
-**Phone:**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Version [e.g. 22]
 
 **Additional context**
 Add any other context about the problem here.
